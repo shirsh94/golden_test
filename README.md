@@ -48,16 +48,16 @@ Contribute by creating an account and adding your insights or improvements.
 ### Connect with the Developer:
 
 - **GitHub:** [shirsh94](https://github.com/shirsh94)
-- **LinkedIn:** [Shirsh Shukla](https://www.linkedin.com/in/shirshshukla/)
-- **Twitter:** [Shirsh Shukla](https://twitter.com/shirshshukla)
+- **LinkedIn:** [Shirsh Shukla](https://www.linkedin.com/in/shirsh-shukla-95b85786)
+- **Twitter:** [Shirsh Shukla](https://mobile.twitter.com/shirsh94?s=09)
 
 ### Support and Feedback:
 
-Your support is appreciated! If you find any issues or have suggestions for improvement, please mention them in the comments. Subscribe to the [YouTube channel]([https://www.youtube.com/user/YOUR_CHANNEL](https://www.youtube.com/@codingmiles4035)) for more content.
+Your support is appreciated! If you find any issues or have suggestions for improvement, please mention them in the comments. Subscribe to the [YouTube channel](https://www.youtube.com/@codingmiles4035) for more content.
 
 ### About the Developer:
 
-Shirsh Shukla is a creative Developer and Technology lover. Connect on [LinkedIn](https://www.linkedin.com/in/shirshshukla/) or [Twitter](https://twitter.com/shirshshukla), and explore the portfolio for more details.
+Shirsh Shukla is a creative Developer and Technology lover. Connect on [LinkedIn](https://www.linkedin.com/in/shirsh-shukla-95b85786) or [Twitter](https://mobile.twitter.com/shirsh94?s=09), and explore the portfolio for more details.
 
 ### Have a Nice Day! 🙂
 
