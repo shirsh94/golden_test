@@ -53,7 +53,7 @@ Contribute by creating an account and adding your insights or improvements.
 
 ### Support and Feedback:
 
-Your support is appreciated! If you find any issues or have suggestions for improvement, please mention them in the comments. Subscribe to the [YouTube channel](https://www.youtube.com/user/YOUR_CHANNEL) for more content.
+Your support is appreciated! If you find any issues or have suggestions for improvement, please mention them in the comments. Subscribe to the [YouTube channel]([https://www.youtube.com/user/YOUR_CHANNEL](https://www.youtube.com/@codingmiles4035)) for more content.
 
 ### About the Developer:
 
