@@ -59,6 +59,8 @@ class _MyHomePageState extends State<MyHomePage> {
         onPressed: _incrementCounter,
         tooltip: 'Increment',
         child: const Icon(Icons.add),
+        /*TODO - If you want to test the failure condition, just change the color of this FloatingActionButton button like below i added */
+        // child: const Icon(Icons.add,color: Colors.red,),
       ), // This trailing comma makes auto-formatting nicer for build methods.
     );
   }
